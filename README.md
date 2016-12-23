@@ -16,3 +16,6 @@ x Administrator -> STI
 
 ## UI:
 - Bootstrap -> formatting
+
+## Refactors TODOs:
+- Refactor user association integration test in post_spec
