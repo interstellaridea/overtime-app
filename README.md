@@ -15,8 +15,7 @@
 - documented if employees did not log overtime.
 
 ## UI:
-- Bootstrap -> formatting
+- x Bootstrap -> formatting
 
 ## Refactors TODOs:
-- Add full_name method for users
 - Refactor user association integration test in post_spec
