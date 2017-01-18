@@ -9,13 +9,15 @@
 
 ##Features:
 - approval workflow
--sms messages -> includes link to log time.
+- SMS messages -> includes link to log time.
 - admin dashboard -> administrate gem
 - email a summary for approval to admin users
 - documented if employees did not log overtime.
 
 ## UI:
 - x Bootstrap -> formatting
+- Icons from Font Awesome
+- Update teh styles for forms
 
 ## Refactors TODOs:
 - Refactor user association integration test in post_spec
