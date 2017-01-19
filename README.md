@@ -17,7 +17,7 @@
 ## UI:
 - x Bootstrap -> formatting
 - Icons from Font Awesome
-- Update teh styles for forms
+- x Update teh styles for forms
 
 ## Refactors TODOs:
 - Refactor user association integration test in post_spec
