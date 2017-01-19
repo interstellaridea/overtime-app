@@ -8,12 +8,12 @@
 - x Administrator -> STI
 
 ##Features:
-- approval workflow
+- Approval workflow
 - SMS messages -> includes link to log time.
-- admin dashboard -> administrate gem
-- Block non-admin and guest users
-- email a summary for approval to admin users
-- documented if employees did not log overtime.
+- x Admin dashboard -> administrate gem
+- x Block non-admin and guest users
+- Email a summary for approval to admin users
+- Documented if employees did not log overtime.
 
 ## UI:
 - x Bootstrap -> formatting
