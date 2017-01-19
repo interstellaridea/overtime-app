@@ -11,6 +11,7 @@
 - approval workflow
 - SMS messages -> includes link to log time.
 - admin dashboard -> administrate gem
+- Block non-admin and guest users
 - email a summary for approval to admin users
 - documented if employees did not log overtime.
 
