@@ -27,5 +27,16 @@ describe 'navigate' do
 
 			expect(current_path).to_not have_content('Approved')
 		end
+
+		it 'should no be editable by post creator if status is approved' do
+			logout(:user)
+			user = FactoryGirl.create(:user)
+			login_as(user, scope: :user)
+
+			@post.update(user_id: user.id, status: 'approved')
+
+			visit edit_post_path(@post)
+			expect(current_path).to eq(root_path)
+		end
 	end
 end
