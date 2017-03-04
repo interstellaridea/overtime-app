@@ -6,6 +6,11 @@ class User < ActiveRecord::Base
          :recoverable, :rememberable, :trackable, :validatable
   validates_presence_of :first_name, :last_name, :phone
 
+  PHONE_REGEX = /\A(?:\d{10})\Z/
+
+  validates_format_of :phone, with: PHONE_REGEX
+  validates :phone, length: {is: 10}
+
   def full_name
   	last_name.upcase + ", " + first_name.upcase
   end
