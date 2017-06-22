@@ -6,7 +6,7 @@ class StaticController < ApplicationController
 			@pending_approvals = Post.submitted
 			@recent_audit_items = AuditLog.last(10)
 		else
-			# blah
+			@pending_audit_comfirmations = current_user.audit_logs
 		end
 	end
 
