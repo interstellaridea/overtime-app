@@ -9,17 +9,12 @@
 - AuditLog
 
 ## Features:
-- Approval Workflow
-- SMS Sending -> link to approval or overtime input -> integrate with heroku scheduler
+- X Approval Workflow
+- X SMS Sending -> link to approval or overtime input -> integrate with heroku scheduler
 - x Administrate admin dashboard
 - x Block non admin and guest users
 - Email summary to managers for approval
-- Needs to be documented if employee did not log overtime
-
-## UI:
-- x Bootstrap -> formatting
-- x Icons from glyphicons
-- x Update the styles for forms
+- X Needs to be documented if employee did not log overtime
 
 ## TODOS:
 
