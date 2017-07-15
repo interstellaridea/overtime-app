@@ -15,16 +15,17 @@
 - x Block non admin and guest users
 - x Email summary to managers for approval
 - X Needs to be documented if employee did not log overtime
-- Create an Audit log for each text message
-- Need to update end_date whn configured
-- Need to update audit log status when overtime rejected
-- Update buttons on employee homepage so they show on mobile
-- Update buttons to include time span
-- Update buttons sport order on employee home page
+- x Create an Audit log for each text message
+- x Need to update end_date whn configured
+- x Need to update audit log status when overtime rejected
+- x Update buttons on employee homepage so they show on mobile
+- x Update buttons to include time span
+- x Update buttons sport order on employee home page
 - Remove unnesseccary nav bar buttons for managers
 - Fix admin dashboard bug
 - Implement Honeybadger for error reporting
 - Implement new relic for keeping site alive.
+- Check on data issue and verify correct hours are being tracked.
 
 
 ## TODOS:
