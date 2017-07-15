@@ -21,7 +21,7 @@
 - x Update buttons on employee homepage so they show on mobile
 - x Update buttons to include time span
 - x Update buttons sport order on employee home page
-- Remove unnesseccary nav bar buttons for managers
+- x Remove unnesseccary nav bar buttons for managers
 - Fix admin dashboard bug
 - Implement Honeybadger for error reporting
 - Implement new relic for keeping site alive.
