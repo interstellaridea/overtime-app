@@ -1,0 +1,13 @@
+current directory: /Users/svaldez/railsApps/Overtime/vendor/bundle/gems/json-1.8.6/ext/json
+/usr/local/var/rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170715-67810-1f8lya4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/svaldez/railsApps/Overtime/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/svaldez/railsApps/Overtime/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/svaldez/railsApps/Overtime/vendor/bundle/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
