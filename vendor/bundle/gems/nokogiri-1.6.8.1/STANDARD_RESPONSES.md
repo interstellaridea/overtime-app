@@ -41,7 +41,7 @@ submitting patches. If you ask your question on the mailing list, Team
 Nokogiri promises someone will provide you with an answer in a timely
 manner.
 
-If you'd like to read up on Team Nokogiri's rationale for this policy,
+If you'd like to read up on Team Nokogiri's work_preformed for this policy,
 please go to http://bit.ly/nokohelp.
 
 Thank you so much for understanding! And thank you for using Nokogiri.

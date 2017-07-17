@@ -17,8 +17,8 @@
   </div>
 
   <div class="form-group">
-  	<%= f.label :rationale, class: "col-sm-2 control-label" %>
-	  <%= f.text_area :rationale, class: "form-control", :placeholder => "Type some text" %>
+  	<%= f.label :work_preformed, class: "col-sm-2 control-label" %>
+	  <%= f.text_area :work_preformed, class: "form-control", :placeholder => "Type some text" %>
   </div>
 
   <%= render partial: 'status', locals: { f: f } if current_user.type == 'AdminUser' %>
